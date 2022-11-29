@@ -42,7 +42,7 @@ const HeadLineCards = () => {
         {/* overlay */}
 
         <div className="absolute w-full h-full bg-black/40 text-white px-10">
-          <p className="font-bold text-2xl pt-5">Desserts</p>
+          <p className="font-bold text-2xl pt-5">Dessert</p>
           <button className="border-white absolute  bg-white text-black mx-2 bottom-10 ">
             Order Now
           </button>

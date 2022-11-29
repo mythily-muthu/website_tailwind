@@ -22,7 +22,7 @@ const Navbar = () => {
           <AiOutlineMenu size={30} />
         </div>
         {/* best eats */}
-        <h1 className="text-2xl sm:text-3xl lg:4xl px-3">
+        <h1 className="text-2xl bg-white sm:bg-black md:bg-red lg:bg-blue-500 2xl:bg-orange-600 sm:text-3xl lg:text-4xl px-3">
           Best <span className="font-bold">Eats</span>
         </h1>
         {/* pick up */}
